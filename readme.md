@@ -16,11 +16,11 @@
 ## 4xx
 404 - brain has not been able to find the requested thing
 ## 5xx
-500 - brain error
-501 - BUSY (general)
-502 - BUSY (doing something with someoone else)
+500 - brain error<br>
+501 - BUSY (general)<br>
+502 - BUSY (doing something with someoone else)<br>
 503 - BUSY (resolving some issue like spilled water
 ## 6xx
-600 - going to toilet
-601 - going to drink
+600 - going to toilet<br>
+601 - going to drink<br>
 602 - going to play with pet
