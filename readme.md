@@ -1,11 +1,11 @@
 # HYPERPATRIKBOMBERTEXTMESSAGEPROTOCOL (HPBTMP)
 
 ## requests
-### a request is sent like: REQ::\<reqtype\>$\<arg1\>$\<arg2\>$etc
+### a request is sent like: REQ#\<client\>::\<reqtype\>$\<arg1\>$\<arg2\>$etc
 ## responses
-### a response is sent like: RES::\<responsetype\>@\<satuscode\>$\<args\>
+### a response is sent like: RES#\<client\>::\<responsetype\>@\<satuscode\>$\<args\>
 ## status messages (used when indicating something like going to toilet)
-### a status ius sent like: STA::\<statuscode\>$\<args\>
+### a status ius sent like: STA#\<client\>::\<statuscode\>$\<args\>
 
 ## special requests
 ### REQ::PING - pings the remote for status.
