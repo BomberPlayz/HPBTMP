@@ -5,7 +5,7 @@
 ## responses
 ### a response is sent like: RES#\<client\>::\<responsetype\>@\<satuscode\>$\<args\>
 ## status messages (used when indicating something like going to toilet)
-### a status ius sent like: STA#\<client\>::\<statuscode\>$\<args\>
+### a status ius sent like: STA::\<statuscode\>$\<args\>
 
 ## special requests
 ### REQ::PING - pings the remote for status.
