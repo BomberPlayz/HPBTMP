@@ -20,6 +20,7 @@
 501 - BUSY (general)<br>
 502 - BUSY (doing something with someoone else)<br>
 503 - BUSY (resolving some issue like spilled water
+504 - fuck you you have been ratelimited and i wont answer for 30 seconds!
 ## 6xx
 600 - going to toilet<br>
 601 - going to drink<br>
